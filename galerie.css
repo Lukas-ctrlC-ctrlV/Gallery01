@@ -36,6 +36,7 @@ img {
 .prvni-obrazek {
     margin-right: 50px;
     display: flex;
+    transition: transform 0.5s, opacity 0.5s;
 }
 
 .navigace {
@@ -47,6 +48,7 @@ img {
 
 .druhy-obrazek {
     display: flex;
+    transition: transform 0.5s, opacity 0.5s;
 }
 
 .druhe-patro {
